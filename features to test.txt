@@ -1,0 +1,4 @@
+1. login with valid data
+2. registration with valid data
+3. search option shows relevent result
+4. 
