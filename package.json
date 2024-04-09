@@ -9,9 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "mochawesome-report-generator": "^6.2.0",
     "selenium-webdriver": "^4.19.0"
   },
   "devDependencies": {
-    "mocha": "^10.4.0"
+    "mocha": "^10.4.0",
+    "mochawesome": "^7.1.3"
   }
 }
